@@ -2013,3 +2013,22 @@ opacity:1;
 transform:translateY(0);
 
 }
+.contacts{
+    position: relative;
+    z-index: 100;
+}
+
+.contact-box{
+    position: relative;
+    z-index: 101;
+}
+
+.contact-buttons{
+    position: relative;
+    z-index: 102;
+}
+
+.contact-btn{
+    position: relative;
+    z-index: 103;
+}
