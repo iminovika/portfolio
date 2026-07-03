@@ -2051,3 +2051,8 @@ transform:translateY(0);
 .hero-left{
     pointer-events: auto !important;
 }
+.laptop,
+.screen,
+.keyboard {
+    display: none !important;
+}
