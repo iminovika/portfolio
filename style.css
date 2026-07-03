@@ -2032,3 +2032,9 @@ transform:translateY(0);
     position: relative;
     z-index: 103;
 }
+.hero,
+.hero::before,
+.hero::after,
+.line{
+    pointer-events: none !important;
+}
