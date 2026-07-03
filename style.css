@@ -2038,3 +2038,16 @@ transform:translateY(0);
 .line{
     pointer-events: none !important;
 }
+.hero,
+.hero::before,
+.hero::after,
+.line,
+.laptop,
+.screen,
+.keyboard{
+    pointer-events: none !important;
+}
+
+.hero-left{
+    pointer-events: auto !important;
+}
